@@ -5,6 +5,10 @@ controllable via Blynk.io
 
 Made for a school exercise
 
+## Demo video
+
+[Video demo](https://youtu.be/VmOmwD0J7sU)
+
 ## Installation
 
 ### Hardware
